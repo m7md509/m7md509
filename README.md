@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vishal Maurya!
+Hi, I'm Mohammed!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
@@ -14,14 +14,14 @@ Hi, I'm Vishal Maurya!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-mohammed
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: java, php
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
@@ -113,7 +113,7 @@ I-am-vishalmaurya@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:programmingjava50@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
@@ -132,5 +132,5 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
+Credits: [I-am-vishalmaurya](https://github.com/m7md509)
 Last Edited On: 18/04/2022
